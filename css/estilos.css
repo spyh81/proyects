@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e5e5e5
+}
+
+h3 {
+    color: #4e4e4e;
+    text-align: center;
+}
+
+.container {
+   
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#formulario {
+    width: 450px;
+    margin: 0 auto;
+}
+
+#content {
+    width: 400px;
+    margin: 0 auto;
+}
+
